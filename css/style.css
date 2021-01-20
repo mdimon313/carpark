@@ -35,6 +35,10 @@ header {
     font-family: 'Texturina', serif;
     font-weight: 500;
 }
+.navbar-toggler:focus {
+    box-shadow: none;
+    outline: none;
+}
 .navbar-nav .nav-item .nav-link {
     font-weight: 500; 
 }
